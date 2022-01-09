@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textManipulator-react/static/css/main.073c9b0a.css",
+    "main.js": "/textManipulator-react/static/js/main.40d6ba78.js",
+    "static/js/787.cb39df76.chunk.js": "/textManipulator-react/static/js/787.cb39df76.chunk.js",
+    "index.html": "/textManipulator-react/index.html",
+    "main.073c9b0a.css.map": "/textManipulator-react/static/css/main.073c9b0a.css.map",
+    "main.40d6ba78.js.map": "/textManipulator-react/static/js/main.40d6ba78.js.map",
+    "787.cb39df76.chunk.js.map": "/textManipulator-react/static/js/787.cb39df76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.40d6ba78.js"
+  ]
+}
